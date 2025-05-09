@@ -176,8 +176,6 @@ void setup() {
     notifications.audio.introMelody();
   }
 
-  ua3qddd7lc
-
   delay(1200);
 
   static bool isConfigurationValid = config.ssidName.length() > 0 && config.mqttServer.length() > 0 && config.mqttClientId.length() > 0 && config.mqttTopic.length() > 0 && config.mqttServerPort > 0;
