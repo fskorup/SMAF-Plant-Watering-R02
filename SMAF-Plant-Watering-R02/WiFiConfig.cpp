@@ -112,7 +112,7 @@ void setupWiFiConfig() {
 
   server.begin();
 
-  Serial.println("Web server started at: http://192.168.4.1");
+  // Serial.println("Web server started at: http://192.168.4.1");
 }
 
 void clearWiFiConfig() {

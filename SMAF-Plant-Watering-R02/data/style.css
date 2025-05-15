@@ -257,7 +257,7 @@ h1 {
 }
 
 header h1 {
-    margin-top: 1rem;
+    margin-top: 2.5rem;
 }
 
 header svg {
@@ -290,6 +290,11 @@ p {
     color: inherit;
     margin-top: 1rem;
     margin-bottom: 1rem;
+}
+
+strong {
+    font-weight: 550;
+    color: inherit;
 }
 
 input[type='text'],
